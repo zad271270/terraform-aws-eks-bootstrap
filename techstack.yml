@@ -1,0 +1,79 @@
+repo_name: zad271270/terraform-aws-eks-bootstrap
+report_id: 0c9f95cba7d2f7a342e0ee7bde33e0d4
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-14T14:29:12+00:00'
+requested_by: RohitSquareops
+provider: github
+branch: main
+detected_tools_count: 6
+tools:
+- name: Mustache
+  description: Logic-less templates
+  website_url: http://mustache.github.io/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1142/197655.png
+  detection_source_url: https://github.com/zad271270/terraform-aws-eks-bootstrap
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/zad271270/terraform-aws-eks-bootstrap
+  detection_source: Repo Metadata
+- name: Smarty
+  description: Template engine for PHP
+  website_url: http://www.smarty.net/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/3693/smarty.png
+  detection_source_url: https://github.com/zad271270/terraform-aws-eks-bootstrap
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/zad271270/terraform-aws-eks-bootstrap
+  detection_source: Repo Metadata
+- name: Terraform
+  description: Describe your complete infrastructure as code and build resources across
+    providers
+  website_url: https://www.terraform.io/
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/1276/default_2316907c4199f912e2ed79cbdb99025c9e5e2665.png
+  detection_source_url: https://github.com/zad271270/terraform-aws-eks-bootstrap/blob/main/addons/efs/main.tf
+  detection_source: addons/efs/main.tf
+  last_updated_by: Nitin Yadav
+  last_updated_on: 2023-01-18 15:49:53.000000000 Z
+- name: Terraform Registry
+  description: Describe your complete infrastructure as code and build resources across
+    providers
+  website_url: https://registry.terraform.io/
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package_manager/49093/default_cdf079d244bded073d455911e6ce679abb1b77ab.png
+  detection_source_url: https://github.com/zad271270/terraform-aws-eks-bootstrap/blob/main/addons/efs/main.tf
+  detection_source: addons/efs/main.tf
+  last_updated_by: Nitin Yadav
+  last_updated_on: 2023-01-18 15:49:53.000000000 Z
